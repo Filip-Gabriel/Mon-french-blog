@@ -5,7 +5,7 @@ body {
   }
   
   div.autor {
-    background-color: blue;
+    background-color: #090152;
     border: 0px;
     padding: 5px;
     margin: 0px;
@@ -13,8 +13,7 @@ body {
   
   .autor {
     text-align: end; 
-    color: azure;
-    background-color: blue;
+    color: whitesmoke;
   }
   
   div.titlu {
@@ -30,17 +29,6 @@ body {
     height: auto;
     width: auto;
   }
-  div.subtitlu2 {
-    margin: 0px;
-    border: 0px;
-    padding: 0px;
-    height: auto;
-    width: auto;
-  }
-  
-  * {
-    background-color: #1f4172;
-  }
   
   .titlu {
     padding: 20px;
@@ -54,17 +42,14 @@ body {
   .subtitlu {
     padding: 20px;
     margin: 0px;
-    color: #faf8f1;
-    background-color: #0079ff;
+    color: #28d4fa;
+    background-color: rgba(9, 93, 203, 0.604);
   }
   
   .text {
     padding: 20px;
     margin: 0%;
-    background-color: #79e0ee;
-  }
-  
-  .lista {
-    background-color: #79e0ee;
+    color: #28d4fa;
+    background-color: #001f3f;
   }
   
